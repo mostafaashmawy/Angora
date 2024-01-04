@@ -1,0 +1,191 @@
+.king
+{
+   margin: 10px 13px; 
+}
+.king:hover
+{
+    color: #f75a5a;
+}
+.scroll
+{
+    width: 50px;
+    height: 60px;
+    top: 580px;
+    left: 550px;
+}
+.caption
+{
+    position: absolute;
+    top: 290px;
+    margin: auto;
+    left: 500px;
+    color: white;
+    font-size :100px;;
+    font-weight: 900;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.next
+{
+    left: 0px;
+    top: 80px; 
+}
+.one
+    {
+        height: 1px;
+        width: 50px;
+        background-color: black;
+      
+    }
+    .one:hover{
+        height: 1px;
+        width: 150px;
+        background-color: red;
+        position: relative;
+       
+    }
+.about
+{
+    font-size:40px;
+    font-weight: 900;
+    margin-top: 100px;
+}
+.fall
+{
+    background-color: rgb(189, 194, 204);
+    width: 80%;
+    height:4px;
+}
+.two
+{
+    background-color: rgb(206, 61, 61);
+    height: 4px;
+    width:75%;
+}
+.three
+{
+    background-color: rgb(206, 61, 61);
+    height: 4px;
+    width:95%;
+}
+.four
+{
+    background-color: rgb(206, 61, 61);
+    height: 4px;
+    width:80%;
+}
+.five
+{
+    background-color: rgb(206, 61, 61);
+    height: 4px;
+    width:60%;
+}
+.kong
+{
+    margin-top: 60px;
+    margin-left: 60px;
+}
+.high
+{
+    margin-top: 60px;
+}
+.content
+{
+    margin-top: 7px;
+    color: black;
+}
+.kon
+{
+height: 80%;
+width: 92%;
+background-color: rgba(255, 0, 0, .5);
+position: absolute;
+opacity: 0;
+top: 0;
+left: 4%;
+padding: 0 4px;
+
+}
+.kon:hover
+{
+   opacity: 1;
+    transition:.2s all ease-in-out;
+}
+h3:hover
+{
+    color: brown;
+}
+h3
+{
+    text-align: center;
+    margin-top: 10px;
+}
+h5
+{
+    font-size: 20px;
+    font-weight: 500;
+    color: black;
+}
+.how
+{
+    font-size: 25px;
+}
+.pic
+{
+    width: 10%;
+
+}
+.foot
+{
+    background-color: #222222;
+    background-image: url('images/dotted-map.png');
+    margin-top: 10px;
+    height: 450px;
+}
+.symbol:hover
+{
+ color: #f75a5a;
+ text-decoration: none;
+}
+.run:hover
+{
+color: #f75a5a;
+}
+.symbol
+{
+ color:white;
+ text-decoration: none;
+ font-size: 18px;
+ font-weight: 400;
+}
+.kolo
+{
+   margin-top:100px;
+}
+.dom
+{
+    border: 1px white solid;
+}
+.dom:hover
+{
+    border: #f75a5a 1px solid;
+    color: #f75a5a;
+    transition: 0.3s all ease-in-out;
+    
+}
+.social:hover
+{
+    color: #f75a5a;
+    transition: 0.3s all ease-in-out; 
+}
+
+.holy
+{
+    position: absolute;
+  margin-left: 30px;
+bottom: 120px;
+}
+.last
+{
+    bottom: 0;
+    height: 80px;
+}
